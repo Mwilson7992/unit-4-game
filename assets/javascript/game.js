@@ -7,27 +7,27 @@ gameOver = false;
 
 var pennywise = {
     name: "Pennywise",
-    health: 120,
-    baseAttack: 8,
-    attack: 8
+    health: 90,
+    baseAttack: 15,
+    attack: 15
   };
   var freddyKrueger = {
     name: "Freddy Krueger",
-    health: 100,
-    baseAttack: 5,
-    attack: 5
+    health: 85,
+    baseAttack: 15,
+    attack: 15
   };
   var michaelMyers = {
     name: "Michael Myers",
-    health: 150,
-    baseAttack: 20,
-    attack: 20
+    health: 100,
+    baseAttack: 15,
+    attack: 15
   }; 
   var jasonVorhees = {
     name: "Jason Vorhees",
-    health: 180,
-    baseAttack: 25,
-    attack: 25
+    health: 105,
+    baseAttack: 15,
+    attack: 15
   };
 
   function initializeCharacter(chosenCharacter) {

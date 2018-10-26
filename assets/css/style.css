@@ -23,7 +23,7 @@
     width: 800px;
   }
   
-  .jumbotron h2 {
+  #choose {
     font-size: 2em;
       color:orange;
   }
@@ -37,6 +37,7 @@
     border: solid;
     border-color: orange;
     color: orange;
+    margin-left: 25px;
   }
   
   .character-image p {
